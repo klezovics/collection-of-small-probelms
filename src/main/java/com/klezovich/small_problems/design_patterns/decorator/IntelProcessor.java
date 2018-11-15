@@ -5,7 +5,7 @@ public class IntelProcessor implements Processor {
 	@Override
 	public void compute() {
 		System.out.println("Intel processor does calculation...");
-
+ 
 	}
 
 }
