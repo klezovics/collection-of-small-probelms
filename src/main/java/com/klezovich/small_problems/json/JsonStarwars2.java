@@ -12,7 +12,7 @@ To do so, you will be using the Swapi API, which documentation can be found here
 
 INPUT
 string      Film
-string      Character
+string      Character 
 
 
 OUTPUT
