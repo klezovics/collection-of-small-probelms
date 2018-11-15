@@ -1,8 +1,13 @@
 package com.klezovich.small_problems.json;
 
-import java.io.*;
-import java.net.*;
-import com.google.gson.*;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
+import java.net.URL;
+
+import com.google.gson.JsonArray;
+import com.google.gson.JsonObject;
+import com.google.gson.JsonParser;
 
 /*
  *  This is a solution for one of the challenges as https://app.hackajob.co
